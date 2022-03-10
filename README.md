@@ -1,2 +1,2 @@
 # wordle-solver
-A pip installable Wordle clone, solver, and strategy assessment.
+A `pip` installable Wordle game, solver, and strategy assessment.
